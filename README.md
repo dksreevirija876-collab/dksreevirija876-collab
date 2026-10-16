@@ -1,5 +1,5 @@
 
-# 🧬 D.K. SREEVIRIJA | BioCode Lab
+# 🧬 D.K. SREEVIRIJA | 
 
 > **Deciphering Life Through Code.**  
 > *Bioinformatician • Data Science & ML Researcher • Integrated M.Sc. Biotech & Bioinformatics*
