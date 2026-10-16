@@ -24,7 +24,7 @@ Hello! I am **D.K. Sreevirija**. I engineer computational solutions at the inter
 
 ---
 
-## 🔬 BioCode Data Science & Biological Database Pipeline
+## 🔬 Data Science & Biological Database Pipeline
 
 ```text
 Target Locus: chr17q21.31 | ML Classifier: ROC-AUC 0.984 | Primary Stack: Python / Pandas / Scikit-Learn
